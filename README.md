@@ -1,4 +1,4 @@
-# Windows-Floder-Lock
+# Windows-Folder-Lock
 This is a bat script which locks, hides your folder and then when you want to unlock, unhide it you have to enter password.
 
 ==>Default password is 123456
